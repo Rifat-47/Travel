@@ -101,4 +101,4 @@ Destination Information
 ![ScreenShot-2](https://github.com/Rifat-47/Travel/blob/main/screenshots/2.PNG)
 
 Admin Panel
-![ScreenShot-2](https://github.com/Rifat-47/Travel/blob/main/screenshots/2.PNG)
+![ScreenShot-3](https://github.com/Rifat-47/Travel/blob/main/screenshots/3.PNG)
