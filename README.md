@@ -94,7 +94,11 @@ Destinations can be added, deleted or updated from django admin panel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+Home Page
 ![ScreenShot-1](https://github.com/Rifat-47/Travel/blob/main/screenshots/1.PNG)
 
+Destination Information
+![ScreenShot-2](https://github.com/Rifat-47/Travel/blob/main/screenshots/2.PNG)
+
+Admin Panel
+![ScreenShot-2](https://github.com/Rifat-47/Travel/blob/main/screenshots/2.PNG)
