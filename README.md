@@ -5,7 +5,6 @@ Travel Website Project Using Django.
 Destination informations can be added, deleted or updated from admin panel.
 
 
-
 ## Run Locally
 
 Clone the project
@@ -57,6 +56,8 @@ Deactivate virtual environment
 ```bash
   .\venvname\Scripts\deactivate
 ```
+
+
 ## Documentation
 
 To remove virtual environment completely: 
@@ -78,6 +79,20 @@ After creating superuser, run the server & go to:
   http://127.0.0.1:8000/admin
 ```
 Destinations can be added, deleted or updated from django admin panel.
+
+
+## Screenshots
+
+Home Page
+![ScreenShot-1](https://github.com/Rifat-47/Travel/blob/main/screenshots/1.PNG)
+
+Destination Information
+![ScreenShot-2](https://github.com/Rifat-47/Travel/blob/main/screenshots/2.PNG)
+
+Admin Panel
+![ScreenShot-3](https://github.com/Rifat-47/Travel/blob/main/screenshots/3.PNG)
+
+
 ## Authors
 
 - [@Rifat-47](https://github.com/Rifat-47)
@@ -91,14 +106,3 @@ Destinations can be added, deleted or updated from django admin panel.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rifat-47)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-ibn-taher/)
-
-## Screenshots
-
-Home Page
-![ScreenShot-1](https://github.com/Rifat-47/Travel/blob/main/screenshots/1.PNG)
-
-Destination Information
-![ScreenShot-2](https://github.com/Rifat-47/Travel/blob/main/screenshots/2.PNG)
-
-Admin Panel
-![ScreenShot-3](https://github.com/Rifat-47/Travel/blob/main/screenshots/3.PNG)
