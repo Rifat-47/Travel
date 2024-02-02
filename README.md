@@ -54,7 +54,7 @@ Close server using ctrl + c
 
 Deactivate virtual environment
 ```bash
-  .\venvname\Scripts\deactivate
+  deactivate
 ```
 
 
